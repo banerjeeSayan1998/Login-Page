@@ -1,0 +1,83 @@
+body{
+  text-align: center;
+}
+h1{
+  font-weight: lighter;
+}
+h6{
+  font-weight: lighter;
+  margin: 10px 10px;
+}
+/* Top Section */
+#top-section{
+  margin-bottom: 2.5rem;
+}
+.navigation{
+  box-shadow: 1px 1px 10px #888888;
+}
+.brand-logo{
+  color: #679b9b;
+  font-size: 5rem;
+}
+.brand-logo:hover{
+  color: #637373;
+}
+
+.navbar-brand{
+  margin: 0 auto;
+}
+
+/* Login Box */
+#login-box{
+  color: #888888;
+  text-align: center;
+}
+
+.social-accounts{
+  box-shadow:  1px 1px 15px  #888888;
+  margin:0 auto 1rem;
+  width: 34%;
+  padding-bottom: 2rem;
+}
+.sign-up-para{
+  font-weight: bold;
+  margin-bottom: 8%;
+}
+.login-button-google {
+  margin-left: 120px;
+  float:left;
+}
+.login-button-facebook {
+  margin-right: 120px;
+  float: right;
+}
+
+/* Sign Up */
+.signup{
+  margin: 100px 30px 10px;
+  padding-bottom: 40px;
+}
+.signup-input {
+  margin: 5px auto;
+  width: 90%;
+}
+.signup-button{
+  width: 90%;
+  margin: 5px auto;
+}
+
+.hrdivider {
+  position: relative;
+  top: 75px;
+  width: 100%;
+  text-align: center;
+}
+
+.hrdivider span {
+  position: relative;
+  bottom: 50px;
+  background: #fff;
+  padding: 0 20px;
+  font-weight: bold;
+  font-size: 16px;
+}
